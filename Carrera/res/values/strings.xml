@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carrera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido Paterno</string>
+    <string name="Age">Edad</string>
+    <string name="NombreUsuario">Usuario</string>
+    <string name="FechaFin">FechaNacimiento</string>
+    <string name="Apellido2">Apellido Materno</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Gener">Genero</string>
+    <string name="Categoria">Categoria</string>
+    <string name="b1">    Mujer</string>
+    <string name="b2">    Hombre</string>
+    <string name="Number">Numero</string>
+    <string name="C1">5 Km</string>
+    <string name="C2">10 Km</string>
+    <string name="Boton1V2">Alta </string>
+    <string name="Boton2V2">Editar</string>
+    <string name="Seleccion">Seleccione:</string>
+    <string name="Guardar">Guardar Registro</string>
+    <string name="Busqueda">Busqueda</string>
+    <string name="Modificar">Modificar y Guardar</string>
+    <string name="Delete">Eliminar Registro</string>
+
+</resources>
